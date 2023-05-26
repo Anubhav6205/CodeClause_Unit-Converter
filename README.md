@@ -20,4 +20,4 @@ Steps to download the code from your GitHub repository and run it locally using 
 
 8.After the dependencies are installed, run the command npm run dev in the terminal. This will start the development server.
 
-9.Once the server is up and running, open a web browser and navigate to http://localhost:3000 (or the specified port if different) to access the locally hosted app.
+9.Once the server is up and running, open a web browser and navigate to http://localhost:5173 (or the specified port if different) to access the locally hosted app.
