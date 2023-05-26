@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://anubhav6205.github.io/UniVerse", 
+  "homepage": "http://anubhav6205.github.io/UniVerse",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
