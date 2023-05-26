@@ -1,0 +1,26 @@
+.navbar{
+    padding:1.2rem 5rem;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar .logo img{
+    height:1.4rem
+}
+
+.navbar .options ul{
+    display: flex;
+    list-style: none;
+
+  
+}
+
+.navbar .options ul li{
+    margin-left: 3rem;
+    text-decoration: none;
+  
+}
+.navbar .options ul li a{
+    text-decoration: none;
+}

@@ -1,0 +1,49 @@
+.help-page {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    height:85vh;
+  }
+  
+  .help-page h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .help-page p {
+    margin-bottom: 30px;
+  }
+  
+  .faq-section {
+    margin-bottom: 30px;
+  }
+  
+  .faq-section-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  .faq-section-content {
+    margin-bottom: 10px;
+  }
+  
+  @media (max-width: 480px) {
+    .help-page {
+      padding: 10px;
+    }
+  
+    .help-page h2 {
+      font-size: 20px;
+      margin-bottom: 15px;
+    }
+  
+    .help-page p {
+      margin-bottom: 20px;
+    }
+  
+    .faq-section-title {
+      font-size: 16px;
+    }
+  }
+  
