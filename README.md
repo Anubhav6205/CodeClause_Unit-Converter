@@ -1,4 +1,4 @@
-Universe: A sleek React.js unit converter with a wide range of conversion options for length, area, volume, time, speed, temperature, pressure, logarithmic values, and currency. Effortlessly convert between 8+ units with its user-friendly interface
+UniVerse: A sleek React.js unit converter with a wide range of conversion options for length, area, volume, time, speed, temperature, pressure, logarithmic values, and currency. Effortlessly convert between 8+ units with its user-friendly interface
 
 Check it out => https://6470dff3f93cfe21a6027ce3--sunny-malabi-7f576a.netlify.app/
 
